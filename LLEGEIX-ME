@@ -1,0 +1,22 @@
+1-  A- git checkout -b branca00
+  C- git status
+
+5-  git checkout main
+    git status
+    git log
+    la branca00 té un commit més que el main, la versió 1.1
+
+6- No es pot veure el canvi per que no está en aquesta branca.
+
+
+7- git checkout branca00
+  En aquesta branca si es veu el canvi, per que es un canvi unic d'aquesta branca.
+  
+
+10b- git checkout main
+     git merge branca00
+     git log
+
+12- A- git push
+
+14- git push -u origin branca01
